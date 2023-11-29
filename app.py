@@ -270,9 +270,9 @@ st.write(heart)
 st.subheader("Basic Statistics")
 st.write(heart.describe())
 
-# Check for missing values
-st.subheader("Missing Values")
-st.write(heart.isnull())
+# # Check for missing values
+# st.subheader("Missing Values")
+# st.write(heart.isnull())
 
 # Pie chart for Diabetes analysis
 st.subheader("Diabetes Analysis")
